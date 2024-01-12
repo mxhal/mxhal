@@ -1,6 +1,6 @@
 👋 Hey! My name's Michael.
 
-👦 I'm a 16 year-old high school student. I'm working on my video editing skills and always open to learn about my mistakes to be better! 😁
+👦 I'm a 16 year-old high school student. I'm working on my video editing skills and always open to learn about my mistakes to be better!
 <details>
 
 <summary><h3>📎 My Story<h3></summary>
