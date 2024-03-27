@@ -6,11 +6,12 @@
 <summary><h3>📎 My Story<h3></summary>
 📸 I started video editing when I was 14 years-old in middle school (during covid). My first software was [Kdenlive](https://kdenlive.org) and I used it to build my old Minecraft Youtube channel which you can find [here](https://www.youtube.com/@imqrtin1).
 
-🎬 I now use **Adobe Premiere Pro** which has been great and much more simpler. Most of my previous works have been deleted since I was young not knowing what a portfolio was. However...
+🎬 I now use **Adobe Premiere Pro** which has been great and much more simpler. Most of my previous works have been deleted since I was young not knowing what a portfolio was.
+EDIT: Im now starting to get into Davinci Resolve.
 
 </details>
 
-> _I would have never started video editing if I never tried_.
+> _I would have never started if I never tried_.
 
 
 ⏯️ You can find my videos on my portfolio website [here](https://mxhal.github.io).
